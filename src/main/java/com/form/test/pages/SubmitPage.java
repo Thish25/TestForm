@@ -18,7 +18,7 @@ public class SubmitPage extends TestBase{
 	
 	//Method
 	
-	//Checking the
+	//Getting heading text of submitted page
 	public String pageSubmitted() {
 		return submitted.getText();
 	}
